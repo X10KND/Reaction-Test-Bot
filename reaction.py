@@ -1,8 +1,8 @@
-import numpy as np
-import cv2
-import time
+#import cv2
 import mss
+import time
 import mouse
+import numpy as np
 
 X_OFFSET = 500
 Y_OFFSET = 500
